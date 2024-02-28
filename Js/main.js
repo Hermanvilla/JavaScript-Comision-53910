@@ -167,6 +167,7 @@ function mainMenu() {
 mainMenu();
 */
 
+/** VERSION PARA SEGUNDA ENTREGA */
 
 let nombre = prompt("Ingresa tu nombre");
 
